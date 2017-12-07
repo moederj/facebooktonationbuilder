@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'koala'
 gem 'nationbuilder-rb', require: 'nationbuilder'
 gem 'webpacker', github: 'rails/webpacker'
+gem 'Oauth2'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
